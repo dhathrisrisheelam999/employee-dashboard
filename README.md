@@ -20,3 +20,4 @@ An employee management dashboard project developed using web technologies.
 
 ## Repository
 GitHub repository for the Employee Dashboard project.
+Project contributors updated.
